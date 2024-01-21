@@ -1,6 +1,5 @@
 ### Olá! Eu sou a Madu
 
-- 🔭 Trabalho como Jovem Aprendiz
 - 🌱 Estudo constante Python, PHP, C#, Html, C++
 - Contate-me no email: m.lima_29@outlook.com
 
