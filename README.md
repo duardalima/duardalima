@@ -1,13 +1,30 @@
-### Olá! Eu sou a Madu
-
-- 🌱 Estudo constante Python, PHP, C#, Html, C++
-- Contate-me no email: m.lima_29@outlook.com
-
+<h1 align="center"> Maria Eduarda Gonzaga </h1> 
+    
 <div align="center">
-  <a href="https://github.com/duardalima">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=duardalima&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=duardalima&layout=compact&langs_count=7&theme=dracula"/>
+<b> Gestão de TI e Sistemas da Informação | Redes |Python | C# | C++ </b>
+<br>
+<br>
+
+<blockquote>
+    <p><i>
+        "The internet is much more than a technology. It is a means of communication, interaction, and social organization."✨🎓
+    </i></p>
+</blockquote>
 </div>
+<details closed>
+<summary>About me 👈😊</summary>
+
+---
+Hey there!! I am Madu :wave:😊
+
+I am a lifelong learner who is open to new experiences and highly skilled in teamwork. I am always willing to specialize for the job market and learn new things.
+
+I have knowledge in Office 365, Windows tools, basic Linux understanding, experience in customer service, and programming language proficiency.
+
+My main skills include Agile methodologies (Scrum, Six Sigma, SWOT), firewall monitoring, coding, and backup verification.
+
+I am currently working as a  as an intern for the [Equinix](https://www.equinix.com.br/). 
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -16,13 +33,19 @@
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div> 
 
-##
+</div>
+</details>
 
-<div> 
-  <a href="https://instagram.com/_duarda.lima" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://twitter.com/Duarda_Lima" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"><a/a> 
- <a href="https://open.spotify.com/usere/dl.gonzaga.me?si=TFxm6CCvRy-4YxRfn3ML-A&utm_source=copy-link" target="_blank"><img src= "https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="blank"></a>
-  <a href = "mailto:contatoradl.gonzaga.me@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/maria-eduarda-lima-gonzaga-8988b6202/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
+<br/>
+
+---
+
+<div align="center">
+
+<div align="center">
+
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/Duarda_Lima)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maria-eduarda-lima-gonzaga-8988b6202/)
+[![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/dl.gonzaga.me?si=2944a8b866144eb8)
+
 </div>
