@@ -1,7 +1,7 @@
 <h1 align="center"> Maria Eduarda Gonzaga </h1> 
     
 <div align="center">
-<b> Gestão de TI e Sistemas da Informação | Redes |Python | C# | C++ </b>
+<b> Gestão de TI e Sistemas da Informação | Python | Html | Css |JavaScript |  </b>
 <br>
 <br>
 
