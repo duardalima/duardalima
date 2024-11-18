@@ -33,11 +33,6 @@ I am currently working as a  as an intern for the [Equinix](https://www.equinix.
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div> 
 
-<div align="center">
-  <a href="https://github.com/duardalima">
-  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=duardalima&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-
 </div>
 </details>
 
