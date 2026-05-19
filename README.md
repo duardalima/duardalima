@@ -23,8 +23,6 @@ I have knowledge in Office 365, Windows tools, basic Linux understanding, experi
 
 My main skills include Agile methodologies (Scrum, Six Sigma, SWOT), firewall monitoring, coding, and backup verification.
 
-I am currently working as a  as an intern for the [Equinix](https://www.equinix.com.br/). 
-
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
