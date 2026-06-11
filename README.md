@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Maria Eduarda
 
-**`Desenvolvedora FullStack`**
+**`Desenvolvedora Front-End`**
 
 Me chamo Maria Eduarda Gonzaga, tenho 21 anos. Concluí o Ensino Médio Técnico em Informática pelo Colégio Flama e sou graduada em Gestão da Tecnologia da Informação. Atualmente, estou cursando Sistemas da Informação na Universidade Veiga de Almeida. Possuo experiência em monitoramento de ambientes com Zabbix, atuação no suporte a sistemas Windows e Linux e desenvolvimento de sites.
 
